@@ -10,7 +10,7 @@
 
 A [LESS] parser for [PostCSS].
 
-**This module does not compile SCSS.** It simply parses mixins as custom
+**This module does not compile LESS.** It simply parses mixins as custom
 at-rules & variables as properties, so that PostCSS plugins can then transform
 LESS source code alongside CSS.
 
